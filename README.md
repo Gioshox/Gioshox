@@ -54,9 +54,6 @@
         <a href="discordapp.com/users/444205899574280213">
           <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a><br>
-        <a href="https://leetcode.com/Gioshox/">
-          <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-        </a><br>
         <a href="https://steamcommunity.com/profiles/76561198290891139/">
           <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
         </a>
