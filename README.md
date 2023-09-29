@@ -20,19 +20,19 @@
   <h2>What I use:</h2>
   <a>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE">
-  </a>
+  </a><br>
   <a>
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS">
-  </a>
+  </a><br>
   <a>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  </a>
+  </a><br>
   <a>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
+  </a><br>
   <a>
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
-  </a>
+  </a><br>
   <a>
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
   </a>
@@ -40,10 +40,10 @@
     <div style="display: flex; flex-direction: column;">
         <a href="discordapp.com/users/444205899574280213">
           <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
+        </a><br>
         <a href="https://leetcode.com/Gioshox/">
           <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-        </a>
+        </a><br>
         <a href="https://steamcommunity.com/profiles/76561198290891139/">
           <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
         </a>
