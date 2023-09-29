@@ -17,6 +17,19 @@
     <a>
         <img align="right" src="https://i.pinimg.com/564x/b3/03/af/b303af0a0e11f45f831c89a28e88390b.jpg" />
     </a>
+  <h2>Languages:</h2>
+  <a>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  </a><br>
+  <a>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  </a><br>
+  <a>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  </a><br>
+  <a>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a><br>
   <h2>What I use:</h2>
   <a>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCODE">
@@ -35,7 +48,7 @@
   </a><br>
   <a>
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
-  </a>
+  </a><br>
   <h2>Other Platforms:</h2>
     <div style="display: flex; flex-direction: column;">
         <a href="discordapp.com/users/444205899574280213">
