@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&duration=2000&pause=1000&color=8E0F8D&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Gioshox;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+SQL+%7C+Python;Web+Developer+%7C+Front-end+%7C+Back-end" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://github.com/Gioshox/Gioshox/blob/main/img/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d546f75726e6579266475726174696f6e3d323030302670617573653d3130303026636f6c6f723d3845304638442663656e7465723d74727565267643656e74.svg" alt="Typing SVG" /></a>
 <br>
 
-<img width=1000px src="https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif"><br><br>
+<img width=1000px src="https://github.com/Gioshox/Gioshox/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f31392f39372f65343139393761376536323432333965353837623237666530376631353336372e676966.gif"><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gioshox&hide=stars,prs,issues,contribs&show_icons=true&theme=midnight-purple" />
@@ -15,7 +15,7 @@
 
 <div style="display: flex; align-items: center;">
     <a>
-        <img align="right" src="https://i.pinimg.com/564x/b3/03/af/b303af0a0e11f45f831c89a28e88390b.jpg" />
+        <img align="right"   src="https://github.com/Gioshox/Gioshox/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f353634782f62332f30332f61662f62333033616630613065313166343566383331633839613238653838333930622e6a7067.jfif" />
     </a>
   <h2>Languages:</h2>
   <a>
