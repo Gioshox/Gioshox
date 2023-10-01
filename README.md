@@ -11,9 +11,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=500 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=gioshox&hide=stars,prs,issues,contribs&show_icons=true&theme=midnight-purple" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img width=450 height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioshox&layout=donut" />
-</a>
 
 <br><br>
 
