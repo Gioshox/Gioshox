@@ -5,11 +5,11 @@
   <br>
   <img width="1000px" src="img/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f31392f39372f65343139393761376536323432333965353837623237666530376631353336372e676966.gif">
   <br><br>
-</div>
+</div><br><br>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=500 height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=gioshox&hide=stars,prs,issues,contribs&show_icons=true&theme=midnight-purple" />
+  <img width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=gioshox&hide=stars,prs,issues,contribs&show_icons=true&theme=midnight-purple" />
 </a>
 
 <br><br>
